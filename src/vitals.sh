@@ -84,7 +84,7 @@ fi
 show_banner
 
 # Table Header
-printf "${BOLD}%-7s │ %-35s │ %-3s │ %-6s${NC}\n" "STATUS" "TARGET URL" "CODE" "TIME"
+printf "${BOLD}%-7s │ %-35s │ %-3s │ %-6s${NC}\n" "STATUS" "TARGET URL" "COD" "TIME"
 echo "────────┼─────────────────────────────────────┼─────┼──────────"
 
 if [[ -f "$1" ]]; then

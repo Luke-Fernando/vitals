@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/afdff19b-df25-4a36-9227-d632ed6e8ce3" alt="Vitals CLI Demo" width="600">
+</p>
 # Vitals
  
 A simple, lightweight CLI tool to check the health and response times of websites, one URL at a time, or a whole list at once.
