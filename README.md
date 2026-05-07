@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/743605f5-1780-4a99-88f6-4aaeea1ff076" alt="Vitals CLI Demo" width="600">
+  <img src="https://github.com/user-attachments/assets/743605f5-1780-4a99-88f6-4aaeea1ff076" alt="Vitals CLI Demo" width="1024">
 </p>
 
 # Vitals
